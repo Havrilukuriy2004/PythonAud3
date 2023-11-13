@@ -1,5 +1,5 @@
 import numpy as np
-from matplotlib import pyplot as plt
+import matplotlib.pyplot as plt
 
 
 NUM = 500  # Множник кількість точок для методу Монте-Карло
